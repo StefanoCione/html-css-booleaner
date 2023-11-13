@@ -21,7 +21,7 @@ header {
     
 }
 
-h1{
+h1 {
     font-size: 40px;
 }
 
@@ -34,40 +34,40 @@ h1{
     background-color: yellow;
 }
 
-#list {
-    padding-left: 15px;
+ul {
+    list-style-position: inside;
 }
 
-.column1{
+.column1 {
     width: 25%;
 }
 
-.column2{
+.column2 {
     width: 25%;
 }
 
-.column3{
+.column3 {
     width: 50%;
 }
 
-th{
+th {
     text-align: left;
 }
 
-table{
+table { 
     border-spacing: 0;
 }
 
-#table-explanation{
+#table-explanation {
     margin-top: 2%;
     margin-bottom: 2%;
 }
 
-thead{
+thead {
     background-color: blue;
     color: white;
 }
 
-#row1, #row3{
+#row1, #row3 {
     background-color: aqua;
 }
