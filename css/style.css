@@ -71,3 +71,19 @@ thead {
 #row1, #row3 {
     background-color: aqua;
 }
+
+h4{
+    margin-bottom: 1%;
+}
+
+.container-2 {
+    position: relative;
+    color: white;
+  }
+
+  h3{
+    color: white;
+    position: absolute;
+    top: 5%;
+    left: 2%;
+  }
