@@ -37,3 +37,23 @@ h1{
 #list {
     padding-left: 15px;
 }
+
+.column1{
+    width: 25%;
+}
+
+.column2{
+    width: 25%;
+}
+
+.column3{
+    width: 50%;
+}
+
+th{
+    text-align: left;
+}
+
+table{
+    border-spacing: 0;
+}
