@@ -57,3 +57,17 @@ th{
 table{
     border-spacing: 0;
 }
+
+#table-explanation{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+#row1, #row3{
+    background-color: aqua;
+}
